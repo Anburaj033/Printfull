@@ -199,6 +199,11 @@ nav .signup_box {
   gap: 5px;
 }
 
+.pink .tablet a{
+   text-decoration: none;
+   color: white;
+}
+
 
 /* 333333333333333333333333333333333333333333333333 */
 
